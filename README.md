@@ -1,8 +1,5 @@
 <h1 align="center">🌌 ANAHIT85 — AI DEVELOPER</h1>
 
-<p align="center">
-  <img src=" ./assets/ai-lab-banner.jpeg" width="100%" alt="Cyberpunk AI Workspace Banner" />
-</p>
 
 <h1 align="center">
   <span>⚡ ANAHIT POGHOSYAN ⚡</span>
