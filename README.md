@@ -69,11 +69,6 @@ I love exploring the intersection of creativity, science and intelligent systems
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,25:9d4edd,50:00bbf9,75:00f5d4,100:fee440&height=120&section=footer" width="100%" />
-</p>
 
 ---
 
@@ -109,3 +104,11 @@ I love exploring the intersection of creativity, science and intelligent systems
 💬 Ask me about: Python, machine learning models, SQL databases & cyberpunk UI design.
 
 📫 How to reach me: You can connect with me anytime via my repositories or GitHub Issues!
+
+
+---
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,25:9d4edd,50:00bbf9,75:00f5d4,100:fee440&height=120&section=footer" width="100%" />
+</p>
