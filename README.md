@@ -9,7 +9,7 @@
 </h1>
 
 <h3 align="center">
-  🌈 Python Developer · Artificial Intelligence · Machine Learning
+   Python Developer · Artificial Intelligence · Machine Learning
 </h3>
 
 <p align="center">
