@@ -44,7 +44,14 @@ class Anahit:
 
     def create_future(self):
         return "Imagine. Code. Learn. Innovate. 🚀"
+## 🤖 Exploring the world of Artificial Intelligence & Generative AI Architecture
 
-🤖 Exploring the world of Artificial Intelligence & Generative AI Architecture🧠 Building models with Machine Learning and Neural Networks🐍 Core Tech: Python & Cyberpunk UI Systems🚀 Mission: Creating intelligent automation and future-ready code🌌 Vision: Pushing the boundaries of what technology can achieve🧪 THE AI LAB“The future is not predicted. It is built.”🔬 Research Zone🚀 Core DirectionPython EcosystemWriting clean, scalable, and high-performance codeArtificial IntelligenceDesigning generative AI workflows & bio-integration ideasMachine LearningDeveloping predictive models and deep learning pipelinesSmart AutomationAutomating complex processes with intelligent agents⚙️ GITHUB SYSTEM STATUS🌐 CONNECT TO MY UNIVERSE
+🧠 Building models with Machine Learning and Neural Networks
 
-🧪 THE AI LAB“The future is not predicted. It is built.”🔬 Research Zone🚀 Core DirectionPython EcosystemWriting clean, scalable, and high-performance codeArtificial IntelligenceDesigning generative AI workflows & bio-integration ideasMachine LearningDeveloping predictive models and deep learning pipelinesSmart AutomationAutomating complex processes with intelligent agents⚙️ GITHUB SYSTEM STATUS🌐 CONNECT TO MY UNIVERSE
+🐍 Core Tech: Python & Cyberpunk UI Systems
+
+🚀 Mission: Creating intelligent automation and future-ready code
+
+🌌 Vision: Pushing the boundaries of what technology can achieve
+
+🌐 CONNECT TO MY UNIVERSE
