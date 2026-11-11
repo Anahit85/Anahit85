@@ -1,4 +1,4 @@
-HTML<h1 align="center">🌌 ANAHIT85 — AI DEVELOPER</h1>
+<h1 align="center">🌌 ANAHIT85 — AI DEVELOPER</h1>
 
 <p align="center">
   <img src="./assets/ai-lab-banner.jpeg" width="100%" alt="Cyberpunk AI Workspace Banner" />
@@ -44,4 +44,7 @@ class Anahit:
 
     def create_future(self):
         return "Imagine. Code. Learn. Innovate. 🚀"
+
 🤖 Exploring the world of Artificial Intelligence & Generative AI Architecture🧠 Building models with Machine Learning and Neural Networks🐍 Core Tech: Python & Cyberpunk UI Systems🚀 Mission: Creating intelligent automation and future-ready code🌌 Vision: Pushing the boundaries of what technology can achieve🧪 THE AI LAB“The future is not predicted. It is built.”🔬 Research Zone🚀 Core DirectionPython EcosystemWriting clean, scalable, and high-performance codeArtificial IntelligenceDesigning generative AI workflows & bio-integration ideasMachine LearningDeveloping predictive models and deep learning pipelinesSmart AutomationAutomating complex processes with intelligent agents⚙️ GITHUB SYSTEM STATUS🌐 CONNECT TO MY UNIVERSE
+
+🧪 THE AI LAB“The future is not predicted. It is built.”🔬 Research Zone🚀 Core DirectionPython EcosystemWriting clean, scalable, and high-performance codeArtificial IntelligenceDesigning generative AI workflows & bio-integration ideasMachine LearningDeveloping predictive models and deep learning pipelinesSmart AutomationAutomating complex processes with intelligent agents⚙️ GITHUB SYSTEM STATUS🌐 CONNECT TO MY UNIVERSE
